@@ -1,33 +1,17 @@
 # YouCube
 
-[![CC: Tweaked Version: 1.100+](https://img.shields.io/badge/CC:%20tweaked-1.100+-green?style=for-the-badge&logo=GNOME%20Terminal)](https://tweaked.cc/)
-![or](.README/slash.svg)
-[![CC: Tweaked Version: 1.80pr1.3+](https://img.shields.io/badge/CC:%20tweaked-1.80pr1.3+-green?style=for-the-badge&logo=GNOME%20Terminal)](https://tweaked.cc/)
-![+](.README/plus.svg)
-[![Computronics Version: 0.1.0+](https://img.shields.io/badge/Computronics-0.1.0+-green?style=for-the-badge)](https://wiki.vexatos.com/wiki:computronics)
-
-[![Page deployment](https://img.shields.io/github/actions/workflow/status/CC-YouCube/client/deploy-page.yml?branch=main&label=Page%20deployment&logo=github&style=for-the-badge)](https://github.com/CC-YouCube/client/actions/workflows/deploy-page.yml)
-[![Illuaminate lint](https://img.shields.io/github/actions/workflow/status/CC-YouCube/client/illuaminate-lint.yml?branch=main&label=Illuaminate%20lint&logo=github&style=for-the-badge)](https://github.com/CC-YouCube/client/actions/workflows/illuaminate-lint.yml)
 
 YouCube streams media from services like YouTube to [ComputerCraft: Tweaked](https://github.com/cc-tweaked/CC-Tweaked). \
 **Project Status: Proof of concept**
 
-![preview](.README/preview-client.png)
-
-<https://user-images.githubusercontent.com/49335821/207105983-f3887269-51d2-4ea2-b8f5-4c4af87ccad4.mp4>
-
 ## Installation
 
-The client can be installed by running the following command:
-
-```shell
-pastebin run swsmNAf7
-```
+To Install the client use the following:
 
 or
 
 ```shell
-wget run https://raw.githubusercontent.com/CC-YouCube/installer/main/src/installer.lua
+wget run https://raw.githubusercontent.com/Mcjevsta1234/installer/main/src/installer.lua
 ```
 
 ### Starting the Client
